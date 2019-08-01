@@ -1,4 +1,7 @@
 
+**NOTE:** this example has been moved to https://github.com/fullcalendar/fullcalendar-example-projects/tree/master/typescript-scheduler
+
+
 # FullCalendar Scheduler TypeScript Example
 
 An example dev environment for FullCalendar Scheduler + [TypeScript],
